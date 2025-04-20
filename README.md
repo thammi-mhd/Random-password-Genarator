@@ -1,9 +1,6 @@
-Absolutely Thammi! Here's a complete and clean `README.md` file for your password generator project:
 
----
 
-```markdown
-# 🔐 Random Password Generator (Python CLI)
+### 🔐 Random Password Generator (Python CLI)
 
 Welcome to the **Random Password Generator**, a simple and interactive Python-based tool that helps you generate secure passwords with ease. Whether you need a string-only password, digits-only, or a mix of everything (including special characters), this program has got you covered!
 
@@ -90,7 +87,7 @@ No external libraries needed. Works with Python 3.6+
 
 **Mahammad Thameez (Thammi)**  
 Just a curious mind building tools to make life easier — one Python script at a time.  
-🔗 [GitHub Profile](https://github.com/your-username)
+🔗 [GitHub Profile]: (https://github.com/thammi-mhd)
 
 ---
 
@@ -100,6 +97,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ```
 
----
-
-Let me know if you'd like me to also generate the `LICENSE` file or add badges and GIFs to the README for a cooler look!
