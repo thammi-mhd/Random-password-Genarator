@@ -1,24 +1,24 @@
 
 
-### 🔐 Random Password Generator (Python CLI)
+###  Random Password Generator (Python CLI)
 
 Welcome to the **Random Password Generator**, a simple and interactive Python-based tool that helps you generate secure passwords with ease. Whether you need a string-only password, digits-only, or a mix of everything (including special characters), this program has got you covered!
 
 ---
 
-## 📌 Features
+##  Features
 
 - Generate passwords based on user preference:
-  - ✅ Only letters (both uppercase and lowercase)
-  - ✅ Only numbers (0–9)
-  - ✅ Mixed (letters + digits + special characters)
+  -  Only letters (both uppercase and lowercase)
+  -  Only numbers (0–9)
+  -  Mixed (letters + digits + special characters)
 - Ensures at least one letter and digit in mixed passwords
 - Interactive CLI experience with confirmation prompts
 - Prevents empty or weak password generation
 
 ---
 
-## 🛠️ How It Works
+##  How It Works
 
 1. The program greets the user and asks for the type of password they want to generate.
 2. Based on the selection, it asks for the desired password length.
@@ -26,7 +26,7 @@ Welcome to the **Random Password Generator**, a simple and interactive Python-ba
 
 ---
 
-## 📋 Usage
+##  Usage
 
 ### Run the program:
 ```bash
@@ -47,7 +47,7 @@ Then, follow the prompts to enter the password length and confirm your choice.
 
 ---
 
-## 💡 Example
+##  Example
 
 ```
 Enter the choice in number: 3
@@ -59,7 +59,7 @@ Your generated password is: x3T@8f#Z1&
 
 ---
 
-## 🧠 Behind the Scenes
+##  Behind the Scenes
 
 - The `RandomPasswordGenerator` class handles all logic.
 - Uses Python's `random` and `string` libraries.
@@ -68,7 +68,7 @@ Your generated password is: x3T@8f#Z1&
 
 ---
 
-## 📄 File Structure
+##  File Structure
 
 ```
 random_password_generator.py  # Main program file
@@ -77,21 +77,21 @@ README.md                     # Project overview and instructions
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 No external libraries needed. Works with Python 3.6+
 
 ---
 
-## 🙌 Author
+##  Author
 
 **Mahammad Thameez (Thammi)**  
 Just a curious mind building tools to make life easier — one Python script at a time.  
-🔗 [GitHub Profile]: (https://github.com/thammi-mhd)
+ [GitHub Profile]: (https://github.com/thammi-mhd)
 
 ---
 
-## ✅ License
+##  License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
